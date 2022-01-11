@@ -52,7 +52,7 @@ My team, **NK** consist several countries's and so we use English for our commun
 <h1 style="font-size:42px" align="center">Contact me</h1>
 
 [![Gmail Badge](https://img.shields.io/badge/-lievander24@gmail.com-c14438?style=flat-squarel&logo=gmail&logoColor=white&link=mailto:lievander24@gmail.com)](mailto:lievander24@gmail.com)
-[![Skype Badge](https://img.shields.io/badge/-live:.cid.9059cdb6c4ef65ea-c14438?style=flat-square&logo=skype&logoColor=white&link=mailto:live:.cid.9059cdb6c4ef65ea)](mailto:live:prettyana1992)
+[![Skype Badge](https://img.shields.io/badge/-live:.cid.9059cdb6c4ef65ea-c14438?style=flat-square&logo=skype&logoColor=white&link=mailto:live:prettyana1992)](mailto:live:prettyana1992)
 <img align="right" src="https://komarev.com/ghpvc/?username=lievander"/>
 
 <br> 
