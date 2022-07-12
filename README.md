@@ -45,10 +45,6 @@ My team, **NK** consist several countries's and so we use English for our commun
     <img src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
 </p>
-<p align="center" style=" display: flex; align-items: center; justify-content: space-evenly; flex-wrap: nowrap; ">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lievander&count_private=true&show_icons=true&hide_title=true"/>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lievander&layout=compact&theme=vue" style="min-width:700px"/>
-</p>
 <h1 style="font-size:42px" align="center">Contact me</h1>
 
 [![Gmail Badge](https://img.shields.io/badge/-lievander24@gmail.com-c14438?style=flat-squarel&logo=gmail&logoColor=white&link=mailto:lievander24@gmail.com)](mailto:lievander24@gmail.com)
