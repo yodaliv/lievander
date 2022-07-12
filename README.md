@@ -65,7 +65,6 @@ My team, **NK** consist several countries's and so we use English for our commun
     <img src="https://badges.pufler.dev/gists/glistenstar?style=flat-square&color=black&logo=github">
   </a>
    -->
-   <img src="https://github-profile-trophy.vercel.app/?username=lievander&theme=gruvbox&no-frame=true&margin-w=30&margin-h=20" />
 </div>
 
 <!-- It is https://yhype.me/ views count tracker, please remove it or use your own -->
